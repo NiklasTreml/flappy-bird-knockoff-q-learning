@@ -1,1 +1,1 @@
-# flappy-bird-knockofff-q-learning
+# flappy-bird-knockoff-q-learning
